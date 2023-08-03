@@ -1,0 +1,78 @@
+---
+title: "PSC 663: The Politics of Foreign Aid"
+subtitle: "Wednesdays, 1:00-3:30pm"
+author: "Instructor: Dr. Amanda B. Edgell (abedgell@ua.edu)"
+date: "Fall 2023"
+output: 
+  html_document:
+   toc: true
+   toc_float: true
+---
+
+
+```{css, echo=FALSE}
+p {
+  font-size: 16px;
+}
+
+td {
+  font-size: 16px;
+}
+
+ul li{
+ font-size:16px;
+}
+
+ol li{
+ font-size:16px;
+}
+```
+
+**Office Hours:** 314 TH, Tuesdays, 3:45-4:45pm
+
+**Last Updated:** `r format(Sys.time(), '%d %B, %Y')`
+
+
+---  
+
+# Assignments 
+
+This page provides copies of the detailed instructions for [Individual Memos](#memos) and the [Team Strategy](#strategy). Hard copies of these instructions will also be distributed in class before each assignment is due. 
+
+</br>
+
+## Formatting and Citation Guidelines
+
+The U.S. Agency for International Development provides a style guide for all materials it produces. The guide contains useful tips on how to prepare concisely written and well-formatted documents. It is your responsibility to familiarize yourself with these guidelines and follow them when preparing written reports for this class. The guide is available here: https://www.usaid.gov/sites/default/files/2022-05/USAID_Style_Guide_October_2021.pdf. 
+
+We will use the Chicago Author-Date citation system, in line with the U.S. Agency for International Development's style manual. You can find the Chicago Author-Date style guide here: https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html. 
+
+As a general rule, whenever you use another person's work in any form in your own writing, you *must* properly cite that source using a parenthetical citation and provide the full reference in a bibliography at the end of your document. If you use more than three words in a row from a source, you should place these in quotation marks and provide the page number where applicable. In most cases, however, you should strive to paraphrase others' work using your own words. 
+
+</br>
+
+## Individual Memos
+
+Click the link below to download the instructions for each assignment. 
+
+|  Assignment              | Max length  | Deadline             |   
+| :--------------------    | :---------- | :---------------     |
+| [Country backgound](https://alabama.box.com/s/0hbb8ijrs1cgm18yijn5wfd73pam984e)        | 5 pages     | Fri, 08 Sep, 11:59pm |
+| Humanitarian assistance  | 5 pages     | Wed, 27 Sep, 1pm     |
+| Health                   | 5 pages     | Wed, 11 Oct, 1pm     |
+| Democracy promotion      | 5 pages     | Wed, 25 Oct, 1pm     |
+| Security assistance      | 5 pages     | Wed, 08 Nov, 1pm     | 
+
+</br> 
+
+
+## Team Strategy 
+
+Click the link below to download the instructions for each assignment. 
+
+|  Assignment                  | Max Length  | Deadline             | 
+| :--------------------        | :---------- | :---------------     |  
+| Draft country context        | 10 pages    | Fri, 22 Sep, 11:59pm | 
+| Final Development Strategy   | 40 pages    | Fri, 01 Dec, 11:59pm | 
+| Final Presentation           | 15 minutes  | Wed, 06 Dec, 1pm     | 
+
