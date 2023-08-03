@@ -33,6 +33,7 @@ ol li{
 
 **Last Updated:** `r format(Sys.time(), '%d %B, %Y')`
 
+<span style="color: red;">UNDER CONSTRUCTION. CHANGES MAY OCCUR BEFORE THE SEMESTER STARTS.</span> 
 
 ---  
   
