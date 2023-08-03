@@ -3,8 +3,6 @@ title: 'PSC 663: The Politics of Foreign Aid'
 author: 'Instructor: Dr. Amanda B. Edgell (abedgell@ua.edu)'
 date: "Fall 2023"
 output:
-  pdf_document:
-    toc: yes
   html_document:
     toc: yes
     toc_float: yes
