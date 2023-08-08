@@ -33,7 +33,7 @@ ol li{
 
 **Last Updated:** `r format(Sys.time(), '%d %B, %Y')`
 
-<span style="color: red;">UNDER CONSTRUCTION. CHANGES MAY OCCUR BEFORE THE SEMESTER STARTS.</span> 
+
 
 ---  
   
@@ -89,12 +89,12 @@ For each class session, you can earn up to five points toward your class discuss
 
 ## 2. Individual Memos (50\%){#memos}
 
-This semester, you will develop in-depth knowledge about a country needing development assistance. You will be assigned your case country during the first class session. You will write five individual memos on the country. The first is an informational memo designed to brief audiences on the historical context, current political and economic conditions, and U.S. relations with the country. The other four are shorter policy memos, through which you will assess the country’s needs and provide recommendations for how the U.S. should address them in the following priority areas: humanitarian assistance, health, democracy, and security. Below is a table with deadlines and links to instructions on Box for each assignment. Links will become available at least one week before the assignment due date. 
+This semester, you will develop in-depth knowledge about a country needing development assistance. You will be assigned your case country during the first class session. You will write five individual memos on the country. The first is an informational memo designed to brief audiences on the historical context, current political and economic conditions, and U.S. relations with the country. The other four are shorter policy memos, through which you will assess the country’s needs and provide recommendations for how the U.S. should address them in the following priority areas: humanitarian assistance, health, democracy, and security. Below is a table with deadlines. Instructions for each assignment will be provided in class at least one week prior to the due date. 
 
 
 |  Assignment                  | Max length  | Deadline             |   
 | :--------------------        | :---------- | :---------------     |
-| [Country backgound memo](https://alabama.box.com/s/0hbb8ijrs1cgm18yijn5wfd73pam984e)       | 5 pages     | Fri, 08 Sep, 11:59pm |
+| Country backgound memo       | 5 pages     | Fri, 08 Sep, 11:59pm |
 | Humanitarian assistance memo | 5 pages     | Wed, 27 Sep, 1pm     |
 | Health memo                  | 5 pages     | Wed, 11 Oct, 1pm     |
 | Democracy promotion memo     | 5 pages     | Wed, 25 Oct, 1pm     |
@@ -103,7 +103,7 @@ This semester, you will develop in-depth knowledge about a country needing devel
 
 ## 3. Team Strategy (30\%){#strategy}
 
-You will work in teams to create a USAID country development cooperation strategy for your assigned case country. To do so, your team will draw upon insights from your individual memos. Collectively, you must decide what information on the country context is essential to include in a unified country context section. Afterward, you will work together to negotiate a suitable development strategy for your country, including one overarching strategic goal, three priority development objectives, and specific foreign aid programs within each of those objectives. Below is a table with deadlines and links to instructions on Box for each assignment. Links will become available at least one week before the assignment due date. 
+You will work in teams to create a USAID country development cooperation strategy for your assigned case country. To do so, your team will draw upon insights from your individual memos. Collectively, you must decide what information on the country context is essential to include in a unified country context section. Afterward, you will work together to negotiate a suitable development strategy for your country, including one overarching strategic goal, three priority development objectives, and specific foreign aid programs within each of those objectives. Below is a table with deadlines. More detailed instructions will be provided in class. 
 
 |  Assignment                  | Max Length  | Deadline             | 
 | :--------------------        | :---------- | :---------------     |  

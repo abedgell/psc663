@@ -32,14 +32,14 @@ ol li{
 
 **Last Updated:** `r format(Sys.time(), '%d %B, %Y')`
 
-<span style="color: red;">UNDER CONSTRUCTION. CHANGES MAY OCCUR BEFORE THE SEMESTER STARTS.</span> 
+
 
 ---  
 
 
 # Course Schedule {#schedule}
 
-Generally, I recommend reading the required materials in the order listed in the course schedule. For books, unless the entire text is assigned (see [Required Texts](#texts))), you can access the assigned pages from the link. You may need to be on the UA network or logged in through MyBama for some links. Otherwise, you should be able to locate them through Google or the UA library.
+Generally, I recommend reading the required materials in the order listed in the course schedule. For books, unless the entire text is assigned (see [Required Texts](index.html#texts)), you can access the assigned pages from the link. You may need to be on the UA network or logged in through MyBama for some links. Otherwise, you should be able to locate them through Google or the UA library.
 
 </br>
 
@@ -50,7 +50,7 @@ Generally, I recommend reading the required materials in the order listed in the
 
 **Required reading:** 
 
-* Emily M. Morgenstern and Nick M. Brown. 2022 “Foreign Assistance: An Introduction to U.S. Programs and Policy.” Congressional Research Service (CRS) Report no. 40213. https://crsreports.congress.gov/product/pdf/R/R40213 
+* Morgenstern, Emily M. and Nick M. Brown. 2022 “Foreign Assistance: An Introduction to U.S. Programs and Policy.” Congressional Research Service (CRS) Report no. 40213. https://crsreports.congress.gov/product/pdf/R/R40213 
 * "U.S. Agency for International Development: An Overview." 2023. Congressional Research Service  (CRS). https://crsreports.congress.gov/product/pdf/IF/IF10261 
 
 
@@ -97,6 +97,10 @@ Complete the Development Module on World 101: https://world101.cfr.org/global-er
 * Dreher, Axel, et al. 2022. "Bilateral or Multilateral? International Financial Flows and the Dirty-Work Hypothesis." *Journal of Politics* 84, no. 4: 1885-2311. https://doi.org/10.1086/718356 
 
 <!-- Have them think about the implications of the readings for the sort of aid delivery they might propose in their strategies.  -->
+
+*Recommended:*
+
+* Swedlund, Haley J. 2017. *The Development Dance: How Donors and Recipients Negotiate the Delivery of Foreign Aid.* Ithaca, NY: Cornell University Press.
 
 </br>
 
@@ -175,7 +179,7 @@ Complete the module by 5pm on 04 October for full discussion credit.
 
 **Topic: The Politics of Global Health Governance**
 
-**Required Reading:*
+**Required Reading:**
 
 * Patterson, Amy S. 2018. *Africa and Global Health Governance: Domestic Politics and International Structures.* Baltimore, MD: Johns Hopkins University Press. Free access here: https://muse.jhu.edu/book/57836.
 
@@ -236,8 +240,6 @@ Complete the module by 5pm on 04 October for full discussion credit.
 **Topic: Putting it all together**
 
 We will use this class period to discuss the final country development strategies. Groups will meet to formulate their overarching strategic goal and three priority development objectives. In addition, you will discuss which interventions across the various memos should be included in the country's development strategy. 
-
-*Required Reading:*
 
 
 </br>
