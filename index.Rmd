@@ -94,7 +94,7 @@ This semester, you will develop in-depth knowledge about a country needing devel
 
 |  Assignment                  | Max length  | Deadline             |   
 | :--------------------        | :---------- | :---------------     |
-| Country backgound memo       | 5 pages     | Fri, 08 Sep, 11:59pm |
+| Country backgound memo       | 5 pages     | Wed, 13 Sep, 1pm |
 | Humanitarian assistance memo | 5 pages     | Wed, 27 Sep, 1pm     |
 | Health memo                  | 5 pages     | Wed, 11 Oct, 1pm     |
 | Democracy promotion memo     | 5 pages     | Wed, 25 Oct, 1pm     |
@@ -107,7 +107,7 @@ You will work in teams to create a USAID country development cooperation strateg
 
 |  Assignment                  | Max Length  | Deadline             | 
 | :--------------------        | :---------- | :---------------     |  
-| Draft country context        | 10 pages    | Fri, 22 Sep, 11:59pm | 
+| Draft country context        | 10 pages    | Fri, 06 Oct, 11:59pm | 
 | Final Development Strategy   | 40 pages    | Fri, 01 Dec, 11:59pm | 
 | Final Presentation           | 15 minutes  | Wed, 06 Dec, 1pm     | 
 
